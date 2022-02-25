@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Triplys for Sir James Fowlis of Collingtoun to a paper intituled Duplys for the Lady Castle-haven, given in by her, to my lord commissioners grace, and the honourable Estates of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63250</idno>
+            <idno type="STC">Wing T2287B</idno>
+            <idno type="STC">ESTC R215720</idno>
+            <idno type="EEBO-CITATION">99827503</idno>
+            <idno type="PROQUEST">99827503</idno>
+            <idno type="VID">31923</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63250)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31923)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1899:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Triplys for Sir James Fowlis of Collingtoun to a paper intituled Duplys for the Lady Castle-haven, given in by her, to my lord commissioners grace, and the honourable Estates of Parliament.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1692?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint conjectured by Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Law Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foulis, James, --  Sir, 1645?-1711 --  Early works to 1800.</term>
+               <term>Castlehaven, Margaret Erskine, --  Lady --  Early works to 1800.</term>
+               <term>[Duplys for the Lady Castle-haven] --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="counter-rebuttal">
+            <pb n="1" facs="tcp:31923:1"/>
+            <head>TRIPLYS For Sir <hi>James Fowlis</hi> of <hi>Collingtoun,</hi> to a Paper intitu<g ref="char:EOLhyphen"/>led Duplys for the Lady <hi>Caſtle-haven,</hi> given in by her, to my Lord Commiſſioners Grace, and the Honou<g ref="char:EOLhyphen"/>rable Eſtates of Parliament.</head>
+            <p>THe Lady <hi>Caſtle-haven,</hi> being many years ſince married to the late Lord <hi>Collingtoun,</hi> ſhe was by a General Clauſe in her Contract of Marriage, provided to the Conqueſt of what ſhould be acquired during the Marri<g ref="char:EOLhyphen"/>age, <hi>quoad</hi> an Liferent thereof; and upon this Clauſe, ſhe having purſued the now Sir <hi>James Fowlis</hi> of <hi>Collingtown</hi> before the Lords of Seſſion. They found, that Sums acquired during the Marriage, which had been applyed for payment of Debts, affecting the Eſtate of <hi>Collingtoun,</hi> were not to be repute Conqueſt.</p>
+            <p>And my Lady having apealled from the Seſſion to the Parliament, the Interlo<g ref="char:EOLhyphen"/>cutor of the Lords was reſcinded, and the Affair thereafter being moved in Par<g ref="char:EOLhyphen"/>liament, the ſame was remitted to the Committee for Fines and Forfaultures, for taking Probation as to the Conqueſt during the Marriage, and what of the effects were extant at the diſſolution thereof; &amp; a Condeſcendence being given in for my Lady, as to what Debts her Husband was in, <hi>anno</hi> 1656: This was ſuſtained as pro<g ref="char:EOLhyphen"/>bative, unleſs Sir <hi>James</hi> could redargue the Condeſcendence, by proving that theſe Debts, or a part thereof were payed before her Marriage, which was in <hi>anno</hi> 1661. And the Committee having proceeded no further in the Affair, there was a Petition given in to the Parliament for her, in order to a further procedure therein, towards a final Determination thereof, and to which there are printed Anſwers likeways given in for the Defender.</p>
+            <p>There is now a Paper come out, intituled Duplys to the ſaids Anſwers, uſh<g ref="char:EOLhyphen"/>er'd in with this Preamble, that the Anſwer contains nothing but a Narrative of what does not concern the point in Queſtion, and of the Lords of Seſſion their Injuſtice in repelling my Ladies Claim, and that this is a Reflection upon the Eſtates of Parliament, who have reduced the Lords Decreet, as alſo upon the Committee of Parliament, who ſuſtained the Condeſcendence as probative, whereas in the Anſwer, the ſame is termed an extravagant and lubrick Con<g ref="char:EOLhyphen"/>jecture.</p>
+            <p>To this it's Triplyed for the Defender, that the Drawer of the Duply, of de<g ref="char:EOLhyphen"/>ſign it ſeems to ſupport the weakneſs of the Purſuers pretentions and Claim, by a willful Miſtake, and unheard-of Stretch would amuſe the high Court of Parlia<g ref="char:EOLhyphen"/>ment; as if in the Anſwers there were any thing that could in the leaſt imply a Reflection upon the eminent Judicature, which is a willful breach of Charity, as will appear to the impartial Reader, upon peruſal of the Anſwers themſelves. For the Proceſs before the Lords of Seſſion, being founded upon a general va<g ref="char:EOLhyphen"/>grant Clauſe of Conqueſt, running upon critical Points <hi>in jure,</hi> and the Lords
+<pb n="2" facs="tcp:31923:2" rendition="simple:additions"/>having determined according to the current of Deciſions, in Caſes of this nature; albeit the Parliament by their power have reſcinded the Lords Interlocutor, yet this was no ground for the Purſuer in her Petition, by a long extrinſick Digreſſion, to level at that Judicatory in the moſt indiſcreet terms imaginable, as taxing them with palpable Iniquity and Injuſtice; although from this, nothing further can be inferred, but that the Seſſion are not infallible in their Sentences, and that the ſame are ſubject to the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eview of Parliament, which is the Fountain of all Juſtice, and the Purſuer in proſecution of her Claim, might have forborn to have taxed them with ſuch palpable Injuſtice, and with Expreſſions unbeſeeming to have been uſed againſt the meaneſt Judicatorie of the Kingdom, ſo that the Defender in his Anſwers, deſigning nothing <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs than any ſeeming Reflection upon the Parliament, but modeſtly charging the Purſuer, as having too much bitter Zeal againſt the Seſſion, in the carrying on of her Proceſs, which was very compatible with that Submiſſion and Acquieſcence that's due to the Interlocutor of Parlia<g ref="char:EOLhyphen"/>ment, in determining a critical point in Law, there was no juſt ground to have uſhered in this Duply with ſuch a groundleſs Challenge. 2. The Inter<g ref="char:EOLhyphen"/>locutor of the Committee of Parliament, ſuſtaining the Condeſcendance as to the Debts, is not in the leaſt quarrelled by the Defenders Anſwer, but he therein follows the Purſuers own Method towards the clearing of the Af<g ref="char:EOLhyphen"/>fair: But in as far as the Purſuer adds, that the Defenders Father left an Eſtate of 10 or 12000 Merks by year behind him, and which is abſolutely falſe; as alſo that what he did leave was the Product of the Acquiſitions during the Marriage, which is likewiſe founded upon Conjectures and Preſumptions, lyable to Miſtake; this is not charging the Committee of Parliament with doing Injuſtice in the leaſt, but allen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arly that the Pu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſuers Condeſcendance, as to the free Eſtate, was extravagant, and that the Conſequence drawn from the Liſt of Debts, to make up a free Eſtate at the diſſolution of the Marriage, was meerly conjectural and preſumptive <hi>ut ſupra:</hi> and to ſtretch the deſign of the Defenders Anſwer any further, does truly proceed from a wilful, if not a malitious miſtake of the true ſcope and intent thereof.</p>
+            <p>And whereas the Purſuer is pleaſed to term the Alledgance proponed by the the Defender, upon the Obligments of his Mothers Contract of Marriage, and upon the great Portion he himſelf brought with him, to be but a number of Sto<g ref="char:EOLhyphen"/>ries, nothing to the purpoſe, and that thereby the Purſuers Clauſe of Conqueſt in her Contract, cannot in the leaſt be weakened or prejudged.</p>
+            <p>It is Triplyed for the Defender, That he being a lawful and true Creditor, as to a juſt Intereſt in the Eſtate of <hi>Collingtoun,</hi> upon the Obligments in his Mo<g ref="char:EOLhyphen"/>thers Contract of Marriage, long prior to the Purſuers Contract, and which was the onerous Cauſe of the Settlements made of this Eſtate in favours of the De<g ref="char:EOLhyphen"/>fender: It is no Story to found thereupon towards the evacuating the effect of a ſub<g ref="char:EOLhyphen"/>ſequent general vagrant Clauſe of Conqueſt, in a juſt comparing of the two toge<g ref="char:EOLhyphen"/>ther. 2. The great Noiſe the Purſuer makes in this her Proceſs, ariſing from the great Debts her Husband was in at the Marriage, and from the alledged great In-comes during the Marriage, which are pretended to have been the ground of the Acquiſition of what Eſtate the Defunct left behind him when he dyed: And this at moſt amounting but to a Preſumption, is eaſily redargued by a ſpecial Condeſcendance of the great Fortune the Defender himſelf brought with him to the Family; and the greateſt part thereof having come after his Marriage, from the deceaſt <hi>John Boyd,</hi> his Father in Law, who was known to be a very under<g ref="char:EOLhyphen"/>ſtanding and provident man in the application of this Acceſs. This is a Preſum<g ref="char:EOLhyphen"/>ption
+<pb n="3" facs="tcp:31923:2"/>much more pregnant than what is adduced in the contrary, and that the De<g ref="char:EOLhyphen"/>fenders Eſtate not exceeding 200 <hi>
+                  <abbr>lib.</abbr> Sterling</hi> yearly, was truly the Product of his own Fortune, and not the extant Effects of the pretended In-comes and Ac<g ref="char:EOLhyphen"/>quiſitions during the Fathers Marriage; ſo that if the Drawer of the Duply had ſeriouſly conſidered the ſtrength of the Defenders Argument, from the ſaids An<g ref="char:EOLhyphen"/>ſwers, he had certainly endeavoured to have taken the ſame off, otherways nor by a pretended general Duply, that the ſame contained nothing to the Purpoſe, and were Stories of no Weight or Monient: And it is known, the De<g ref="char:EOLhyphen"/>fender, beſide what he had from his Father in Law, had for Fifteen years alſo a Sallary as one of the Lords of the Seſſion, and ſo was not ſtraitned to have ſpent his Tocher, nor was he an unfrugal Liver, as the Purſuer injuri<g ref="char:EOLhyphen"/>ouſly is pleaſed to Tax him, and this pretended Conqueſt ariſing but from a Preſumption as aforeſaid, and it being clear from the Anſwers, and from the Po<g ref="char:EOLhyphen"/>ſition laid down by the Purſuer her ſelf, that there could be no free Conqueſt, whereof the effects were extant at the diſſolution of the Marriage, it neceſſarly fol<g ref="char:EOLhyphen"/>lows, the Eſtate now poſſeſt by the Defender, was truly the Product of his own Money, without burdening him to prove any ſpecial application thereof, to the payments of the Debt, which <hi>preſumptione juris</hi> is to be ſuppoſed, conſidering it was the <hi>peculium adventitium</hi> from his Father in Law, who with a regard to his Daughters intereſt, and that of her Children, in Charity, is believed, would ſee the ſame was to be applyed to no other end, but for disburdening the Eſtate, and there was ſuch intire confidence betwixt the Defender and his Father, that with a regard to the honour of the Family, it was agreed to, that no Aſſignations but al<g ref="char:EOLhyphen"/>lanarly Renunciations, were to be taken from the Creditors to their Diligences, there being no proſpect at the time, as to this unexpected and unnatural Plea, ſo that the Renunciations indefinitely were taken, ſometimes in favours of the Fa<g ref="char:EOLhyphen"/>ther, and at other times in favours of both joyntly, and the Defender does hum<g ref="char:EOLhyphen"/>bly crave, that the High Court of Parliament, before Anſwer, take Probation, as to the value of the Eſtate, which was Diſponed to the Defender, and what Sums he himſelf brought with him by his own Marriage; as alſo, the way and manner of the Defunct, his keeping a ſeparate Family of Children and Servants, during the whole time of their Marriage upon his own expences, through her Default: And whereby, the greateſt part of all theſe prended In-comes during the Marriage, were neceſſarly ſpent and conſumed; Reſerving to the Parliament <hi>in termino:</hi> And after Probation is led, to determine the total Relevancy, in relation to the free effects, extant at the Diſſolution of the Marriage, as it ariſes naturally to be conſidered, from the Preſumptions adduced on either ſide, even without any neceſſity upon the Defenders part to prove, that any of the Debts in the liſt 1656, were payed before the year 1661, but making that liſt as the ſtandard, in the way and manner propoſed for the Purſuer her felt, and as is more fully contained in the ſaids An<g ref="char:EOLhyphen"/>ſwers. And upon the event of all which, it's hoped the High Court of Parliament will ſtill be convinced, that the Juſtice of the Purſuers Claim, is ſupported rather from Preſumptions and Conjectures, than upon any ſolid or pregnant proof <hi>in ju<g ref="char:EOLhyphen"/>re<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> or if the Important Affairs of the Kingdom, will not allow the High Court of Parliament the time, to take ſo exact a tryal of the Affair, as it neceſſarly requires, that the ſame may be remitted to the Judge ordinar to take tryal thereof, and to diſcuſs the other points of the Proceſs, which are not as yet either Debate or Determined.</p>
+            <p>And as to what is further urged in the ſaid Duply, that it's not now competent for the Defender to alledge, he is not lyable upon the paſſive Titles, ſeing he
+<pb n="4" facs="tcp:31923:3" rendition="simple:additions"/>brooks his Eſtate, by vertue of a Diſpoſition from the Father, which is <hi>perceptio haereditatis,</hi> and has ſtated himſelf all along as a Contradictor in this Proceſs, which is ſufficient to infer a Repreſentation, after the proponing of peremptor Defences <hi>in cauſa.</hi>
+            </p>
+            <p>It's Triplyed for the Defender, that the ſtate of the Proceſs is opponed, and the Purſuer it ſeems has wilfully forgotten the ſame, for by the Act and Remit of Parliament to the Committee for Fines and Forefaultures, it's thereby cleared, that the Purſuers Procurators did only inſiſt <hi>declaratoriae juris,</hi> to liquidat the Conqueſt, and did actually paſs from that concluſion of the Libel, as to the Defenders being paſſively lyable, becauſe otherways the Defender had ſufficient grounds in Law whereupon to have defended againſt any Repreſentation to his Father; and it is ſtrange, with what confidence the Drawer of the Duply can deny this matter of Fact, which is clear by the Act in the Purſuers Procurators Hands, and to which the Defender <hi>mordicus</hi> Adheres.</p>
+            <closer>In reſpect whereof, <hi>&amp;c.</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
